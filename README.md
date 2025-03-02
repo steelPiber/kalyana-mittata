@@ -21,7 +21,7 @@ Make sure you have the following installed on your system:
 ### Ubuntu/Debian
 
 ```bash
-sudo apt-get install meson ninja-build libefl-dev
+sudo apt-get install meson ninja-build libelf-dev
 ```
 
 ### Fedora
